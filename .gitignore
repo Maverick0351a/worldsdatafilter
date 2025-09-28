@@ -1,0 +1,47 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts
+dist/
+build/
+pip-wheel-metadata/
+*.egg-info/
+*.egg
+*.whl
+*.tar.gz
+
+# Virtual environments
+.venv/
+.env/
+.env.*
+.python-version
+
+# Tooling caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.nox/
+.tox/
+.cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# IDE / editor
+.vscode/
+.qodo/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and credentials
+.pypirc
+*.pem
+*.key
+*.crt
+
+# Misc
+logs/
+*.log
