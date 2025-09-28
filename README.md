@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="docs/assets/logo.svg" alt="The World's Data Filter logo" width="460" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Maverick0351a/worldsdatafilter/actions/workflows/ci.yml">
+    <img src="https://github.com/Maverick0351a/worldsdatafilter/actions/workflows/ci.yml/badge.svg" alt="CI" />
+  </a>
+  <a href="https://pypi.org/project/worlds-data-filter/">
+    <img src="https://img.shields.io/pypi/v/worlds-data-filter.svg?color=1DA1F2" alt="PyPI" />
+  </a>
+</p>
+
 # The World’s Data Filter™ — find the most valuable data, first.
 
 **Surface your highest-value records with *information gain*, *novelty*, and *quality* scoring.**  
